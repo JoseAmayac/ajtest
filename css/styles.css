@@ -1,0 +1,54 @@
+
+.navbar{
+    box-shadow: 2px 2px 5px #000;
+    opacity: 0.8;
+}
+
+.navbar .nav-item .nav-link{
+    color: white;
+}
+.navbar{
+    background-color: #30336b;
+}
+
+.firstSection{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.secondSection{
+    width: 100%;
+    background-color: rgba(143, 99, 99, 0.1);
+}
+
+.thirdSection{
+    width: 100%;
+    background-color: rgba(30, 30, 54, 0.1);
+}
+
+.fourthSection{
+    width: 100%;
+    background-color: rgba(165, 165, 173, 0.1);
+}
+
+.form-control, .btn{
+    border-radius: 0;
+}
+
+.team, footer{
+    background: #30336b;
+}
+
+.card a img:hover{
+    opacity: 0.8;
+    cursor: zoom-in;
+}
+
+.carousel-caption{
+    width: 100%;
+    left: 0;
+    color: #fff;
+    bottom: 0;
+    text-align: center;
+    background: rgba(0,0,0,0.7);
+}
